@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="brain_builder.brain_builder.welcomeFrameController">
+   <children>
+      <ImageView fitHeight="400.0" fitWidth="600.0">
+         <image>
+            <Image url="@../../../../../../../KidsBG/blank-wooden-sign-board-illustration-vector.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="57.0" fitWidth="60.0" layoutX="183.0" layoutY="79.0" style="-fx-fit-height: 40; -fx-fit-width: 40;">
+         <image>
+            <Image url="@../../fonts/W.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="57.0" fitWidth="52.0" layoutX="217.0" layoutY="79.0" style="-fx-fit-height: 40; -fx-fit-width: 40;">
+         <image>
+            <Image url="@../../fonts/E.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="57.0" fitWidth="42.0" layoutX="240.0" layoutY="79.0" style="-fx-fit-height: 40; -fx-fit-width: 40;">
+         <image>
+            <Image url="@../../fonts/L.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="57.0" fitWidth="52.0" layoutX="268.0" layoutY="79.0" style="-fx-fit-height: 40; -fx-fit-width: 40;">
+         <image>
+            <Image url="@../../fonts/C.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="57.0" fitWidth="60.0" layoutX="329.0" layoutY="79.0" style="-fx-fit-height: 40; -fx-fit-width: 40;">
+         <image>
+            <Image url="@../../fonts/M.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="57.0" fitWidth="60.0" layoutX="367.0" layoutY="79.0" style="-fx-fit-height: 40; -fx-fit-width: 40;">
+         <image>
+            <Image url="@../../fonts/E.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="32.0" fitWidth="33.0" layoutX="286.0" layoutY="136.0">
+         <image>
+            <Image url="@../../fonts/O.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="46.0" fitWidth="33.0" layoutX="198.0" layoutY="176.0" style="-fx-fit-height: 40; -fx-fit-width: 28;">
+         <image>
+            <Image url="@../../fonts/A.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="46.0" fitWidth="24.0" layoutX="223.0" layoutY="176.0" style="-fx-fit-height: 40; -fx-fit-width: 28;">
+         <image>
+            <Image url="@../../fonts/I.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="46.0" fitWidth="33.0" layoutX="237.0" layoutY="176.0" style="-fx-fit-height: 40; -fx-fit-width: 28;">
+         <image>
+            <Image url="@../../fonts/N.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="40.0" fitWidth="24.0" layoutX="296.0" layoutY="179.0" style="-fx-fit-height: 38;">
+         <image>
+            <Image url="@../../fonts/U.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="46.0" fitWidth="24.0" layoutX="359.0" layoutY="180.0" style="-fx-fit-height: 40;">
+         <image>
+            <Image url="@../../fonts/D.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="46.0" fitWidth="24.0" layoutX="279.0" layoutY="180.0" style="-fx-fit-height: 40;">
+         <image>
+            <Image url="@../../fonts/B.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="46.0" fitWidth="24.0" layoutX="321.0" layoutY="179.0" style="-fx-fit-height: 40;">
+         <image>
+            <Image url="@../../fonts/I.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="46.0" fitWidth="33.0" layoutX="333.0" layoutY="179.0" style="-fx-fit-height: 40;">
+         <image>
+            <Image url="@../../fonts/L.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="46.0" fitWidth="33.0" layoutX="376.0" layoutY="180.0" style="-fx-fit-height: 40;">
+         <image>
+            <Image url="@../../fonts/E.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="57.0" fitWidth="33.0" layoutX="393.0" layoutY="179.0" style="-fx-fit-height: 44;">
+         <image>
+            <Image url="@../../fonts/R.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="57.0" fitWidth="33.0" layoutX="182.0" layoutY="178.0" style="-fx-fit-height: 40; -fx-fit-width: 28;">
+         <image>
+            <Image url="@../../fonts/R.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="46.0" fitWidth="33.0" layoutX="158.0" layoutY="176.0" style="-fx-fit-height: 40; -fx-fit-width: 28;">
+         <image>
+            <Image url="@../../fonts/B.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="57.0" fitWidth="42.0" layoutX="291.0" layoutY="79.0" style="-fx-fit-height: 40; -fx-fit-width: 40;">
+         <image>
+            <Image url="@../../fonts/O.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="40.0" fitWidth="33.0" layoutX="264.0" layoutY="132.0">
+         <image>
+            <Image url="@../../fonts/T.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
