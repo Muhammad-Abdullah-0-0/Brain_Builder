@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="LoginBG" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #c2d1fc;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="brain_builder.brain_builder.WelcomeController">
+   <children>
+      <Pane fx:id="PastelBGBox01Login" layoutX="536.0" layoutY="-88.0" prefHeight="278.0" prefWidth="374.0" rotate="-45.0" style="-fx-background-color: #6582d6;">
+         <children>
+            <Pane fx:id="PastelBGBox02Login" layoutX="-165.0" layoutY="100.0" prefHeight="271.0" prefWidth="446.0" style="-fx-background-color: #7d94d1;" />
+         </children>
+      </Pane>
+      <AnchorPane fx:id="WelcomeScene" layoutX="1.0" layoutY="-1.0" prefHeight="600.0" prefWidth="800.0">
+         <children>
+            <Label fx:id="Welcomelogo" alignment="CENTER_RIGHT" contentDisplay="TOP" layoutX="492.0" layoutY="219.0" prefHeight="179.0" prefWidth="235.0" text="Welcome to    Brain builder" textAlignment="RIGHT" textFill="WHITE" textOverrun="CLIP" wrapText="true">
+               <font>
+                  <Font name="Microsoft New Tai Lue" size="28.0" />
+               </font>
+            </Label>
+            <Label fx:id="WelcomeName" layoutX="14.0" layoutY="219.0" prefHeight="125.0" prefWidth="447.0" text="Welcome Name">
+               <font>
+                  <Font name="Microsoft Sans Serif" size="36.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
