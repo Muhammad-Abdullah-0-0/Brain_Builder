@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="brain_builder.brain_builder.MathOneController">
+    <children>
+        <ImageView fitHeight="435.0" fitWidth="660.0" layoutX="-7.0" onMouseClicked="#OneVoice" pickOnBounds="true">
+            <image>
+                <Image url="@../../KidsBG/Green%20boared%20bg.jpeg" />
+            </image>
+        </ImageView>
+
+
+
+        <ImageView fitHeight="150.0" fitWidth="107.0" layoutY="285.0" nodeOrientation="RIGHT_TO_LEFT" onMouseClicked="#Math_Back" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../../fonts/nextBackKhamba-removebg-preview.png" />
+            </image>
+        </ImageView>
+        <HBox layoutY="328.0" prefHeight="24.0" prefWidth="60.0">
+            <children>
+                <ImageView fitHeight="26.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/B.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="25.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/A.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="39.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/C.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="28.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/K.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </HBox>
+
+        <ImageView fitHeight="150.0" fitWidth="107.0" layoutX="554.0" layoutY="285.0" onMouseClicked="#Math_next" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../../fonts/nextBackKhamba-removebg-preview.png" />
+            </image>
+        </ImageView>
+        <HBox layoutX="557.0" layoutY="328.0" prefHeight="17.0" prefWidth="75.0">
+            <children>
+                <ImageView fitHeight="29.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/N.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="65.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/E.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="81.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/X.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="83.0" fitWidth="22.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/T.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </HBox>
+        <HBox layoutX="83.0" layoutY="14.0" prefHeight="11.0" prefWidth="151.0">
+            <children>
+                <ImageView fitHeight="31.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/N.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="27.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/U.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="57.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/M.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="29.0" fitWidth="34.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/B.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="62.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/E.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="34.0" fitWidth="36.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/R.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="31.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/S.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </HBox>
+        <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="235.0" layoutY="76.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../../KidsBG/happy-cute-little-kid-studies-number-1-character-vector-removebg-preview.png" />
+            </image>
+        </ImageView>
+        <HBox layoutX="266.0" layoutY="234.0" prefHeight="24.0" prefWidth="86.0">
+            <children>
+                <ImageView fitHeight="44.0" fitWidth="70.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/O.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="46.0" fitWidth="64.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/N.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="47.0" fitWidth="44.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/E.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </HBox>
+      <ImageView fitHeight="150.0" fitWidth="143.0" layoutX="116.0" layoutY="182.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../../../../JAVACO~1/BRAIN_~1/BRAIN_~1/src/main/RESOUR~1/KidsBG/PRINTE~1.PNG" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="44.0" fitWidth="46.0" layoutX="166.0" layoutY="212.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../KidsBG/red-apple-with-green-leaf-isolated-on-white-background-vector-removebg-preview.png" />
+         </image>
+      </ImageView>
+
+
+        <HBox layoutX="25.0" layoutY="303.0" prefHeight="24.0" prefWidth="44.0">
+            <children>
+                <ImageView fitHeight="43.0" fitWidth="19.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/G.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="25.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/O.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </HBox>
+        <HBox layoutX="578.0" layoutY="303.0" prefHeight="24.0" prefWidth="44.0">
+            <children>
+                <ImageView fitHeight="43.0" fitWidth="19.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/G.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="25.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../fonts/O.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </HBox>
+
+
+    </children>
+</AnchorPane>
